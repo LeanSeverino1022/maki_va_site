@@ -1,4 +1,10 @@
 # maki_va_site
-created JAMstack template website for my fiancee. - https://kristinemakilan.netlify.app/
+I wanted to create a static website for my fiancee. - https://kristinemakilan.netlify.app/
+
+
+
+
+
+
 
 
